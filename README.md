@@ -35,4 +35,4 @@ Para organizar a realização do projeto, foram importadas as bibliotecas a segu
 
 ### Conjunto de dados
 <!--ts-->
-
+Os dados escolhidos para ser trabalhados foram do dataset "Superconductivty Data", no qual cada linha é um material supercondutor diferente. Esse dataset, quando baixado, vem em um arquivo do tipo "ZIP", que contém um grupo de dados com propriedades físicas e químicas dos materias, chamado "train.csv", e um contendo o nome do composto e os elementos presentes nele, chamado "unique_m.csv"; ambos são do tipo "CSV". O arquivo que será usado nos algoritmos será o primeiro, contendo as propriedades dos materiais. Esse dataset foi encontrado no repositório UCI, com dados de 21.263 supercondutores, e os dados originais vêm do banco público SuperCon do NIMS. Os dados são númericos e o único dado categórico é o nome dos compostos que fica separado das propriedades que serão usadas nos algoritmos regressores. Esse dataset não contém dados faltantes, informação presente na própria página do UCI.
