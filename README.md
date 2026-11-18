@@ -1,7 +1,7 @@
 <img width="974" height="134" alt="651004942-0a53a0bf-93ba-4ff5-a853-cf0914d6eb95" src="https://github.com/user-attachments/assets/ee4bb882-d65b-4155-a880-60abb77464b0" />
 
-# Projeto de Aprendizado de Máquina
-Trabalho de Aprendizado de Máquina - Tiamat
+# Prevendo a Temperatura Crítica de Supercondutores
+Projeto de Aprendizado de Máquina - Tiamat
 
 ## Cabeçalho
 <!--ts-->
